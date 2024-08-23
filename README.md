@@ -7,9 +7,14 @@
 
 - 📫 How to reach me **karthickfaf19.7@gmail.com**
 
+
+
 <h3 align="left">CONNECT WITH ME :</h3>
 <p align="left">
 <a href="https://instagram.com/_itz_pab_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz_pab_x" height="30" width="40" /></a>
+  <hr>
+  
+<button type = "button" onclick ="href='https://github.com/thisiskarthick-5/thisiskarthick-5';">click me </button>
   
 </p>
 
