@@ -37,6 +37,13 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthick-5&" alt="thisiskarthick-5" />
 </div>
 
+<hr>
 
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+<center>
+  <img  src= "https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg" width = 1000; height = 350; >
+</center>
+
+<hr>
+
+
+
