@@ -18,11 +18,12 @@
 
 - Visit [**thisiskarthick-5**](https://github.com/thisiskarthick-5) profile ..
 
-- 🤔 I am currently learning  python and django.
+- 🤔 I am currently learning  python and  JavaScript .
 
 - 📫 How to reach me: 
-                github :  [**thisiskarthick-5**](https://github.com/thisiskarthick-5) 
+                github :  [**thisiskarthick-5**](https://github.com/thisiskarthick-5)
                 Instagram :  [**_itz_pab_x**](https://www.instagram.com/_itz_pab_x/)
+  
 
 
 ### 🖥 Skills
@@ -35,6 +36,7 @@
 - -- Front-End --
 -     Html
 -     css
+-     JavaScript
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=565555) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django&color=565555) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=565555)
