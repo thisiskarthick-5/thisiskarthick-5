@@ -43,17 +43,9 @@
 
 
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisiskarthick-5&show_icons=true&locale=en&layout=compact" alt="thisiskarthick-5" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthick-5&" alt="thisiskarthick-5" />
-</div>
-
-<hr>
-
-
-
-
-<hr>
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthick-5&theme=ocean_dark&hide_border=false)<br/>
 
 
 <center>
