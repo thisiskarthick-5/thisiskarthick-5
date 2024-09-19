@@ -12,7 +12,7 @@
 
 - 🤔 I am currently learning  python and kotlin.
 
-- 📫 How to reach me: <br> <br>
+- 📫  reach me: <br> <br>
                [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itz_pab_x) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karthfire@gmail.com)
 
   <br>
@@ -20,12 +20,14 @@
 
 ### 🖥 Skills
 
-- -- Back-End -- 
--      Python
+- -- Back-End --
+  
+-     Python
 -     Java
 -     C++
 -     c
 - -- Front-End --
+  
 -     Html
 -     css
 -     JavaScript
