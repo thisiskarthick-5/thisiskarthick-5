@@ -3,14 +3,11 @@
 <br>
 
 
-## 🌐 SOCIALS:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthisiskarthick-5%2Fthisiskarthick-5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@karthick) [![Github](https://img.shields.io/github/followers/thisiskarthick-5?label=Follow&style=social)](https://github.com/thisiskarthick-5)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthisiskarthick-5%2Fthisiskarthick-5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@karthick) [![Github](https://img.shields.io/github/followers/thisiskarthick-5?label=Follow&style=social)](https://github.com/thisiskarthick-5)
 
-
-- Visit  [**thisiskarthick-5**](https://github.com/thisiskarthick-5)  profile ..
-
-- 🤔 I am currently learning  python and kotlin.
+- 🤔 I am currently learning  python 
 
 - 📫  reach me: <br> <br>
                [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itz_pab_x) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:karthfire@gmail.com)
