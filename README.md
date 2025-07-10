@@ -1,29 +1,26 @@
-<p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=thisiskarthick-5&color=6AAE14&data=followers,repositories,stars,commits' />
-</p>
-
-
-<center>
-<h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Karthick !</h1>
-</center>
-
-<div>
-  <p >Hello! I'm Karthick, a passionate web developer and aspiring tech enthusiast currently pursuing my Bachelor's in Computer Science and Engineering at Jaya Engineering College. </p>
-</div>
-
-<br>
+<h1 align="center">Hello there, fellow <developer/>!</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuellDev&theme=react&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Emmanuel's activity graph">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+Emmanuel's+GitHub" alt="Typing SVG" />
 </p>
 
+---
 
-<br>
+<p align="center">
+  You have finally discovered my GitHub profile.<br><br>
+  <em>I'm a Smart Contract and Web2 Developer with 2+ years of experience in each field, driven by a passion for blockchain technology.</em><br>
+  I actively contribute to the Solidity community through educational content, open-source projects, and blockchain events.<br>
+  Feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.
+</p>
 
+---
 
-<center>
+<p align="center">
+  Ask me anything here <a href="mailto:your-email@example.com">email me</a>.
+</p>
 
-  <div align="center" class="color: blue" width="1000"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiskarthick-5&theme=react&hide_border=true"/></div>
+<p align="center"><strong>Happy Coding! 🚀</strong></p>
 
-</center>
-
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Profile-Link-blue?style=for-the-badge" alt="GitHub Profile"></a>
+</p>
