@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=150&section=header&text=Hi%20I'm%20Karthick!&fontColor=ffffff&fontSize=30&animation=fadeIn" 
@@ -33,6 +24,7 @@
  <strong > My Tech Stack</strong>
 </center>
 <table align="center">
+
 
   <tr>
     <th align="center"><strong>🌐 Web</strong></th>
@@ -75,31 +67,38 @@
 </table>
 
 <hr>
-<strong>Github stats</strong>
+
 <div align="center">
+  <strong>Github stats</strong>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical" />
 </p>
 </div>
+<hr>
 <div align="center">
 
-
-<hr>
-
+<strong>Contribution</strong>
 
   [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=thisiskarthick-5&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
-
+<hr>
+<center>
+  <strong>lanuages used </strong>
+  </center>
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
 </div>
 
+<hr>
 <p align="center">
+  <strong>Contribution graph</strong>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisiskarthick-5&theme=merko&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph" width="95%" alt="Activity Graph">
 </p>
 
 <div align="center">
+  <strong></strong>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiskarthick-5&theme=highcontrast&hide_border=true"/>
 </div>
 
