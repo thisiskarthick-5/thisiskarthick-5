@@ -82,6 +82,9 @@
 
 </div>
 <hr>
+
+<img src="https://raw.githubusercontent.com/harichopper/harichopper/output/snake.svg" alt="Snake animation" />
+
 <center>
   <strong>lanuages used </strong>
   </center>
