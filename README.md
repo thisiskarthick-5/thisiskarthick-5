@@ -83,7 +83,7 @@
 </div>
 <hr>
 
-<img src="https://raw.githubusercontent.com/harichopper/harichopper/output/snake.svg" alt="Snake animation" />
+
 
 <center>
   <strong>lanuages used </strong>
@@ -98,6 +98,8 @@
   <strong>Contribution graph</strong>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisiskarthick-5&theme=merko&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph" width="95%" alt="Activity Graph">
 </p>
+
+<img src="https://raw.githubusercontent.com/thisiskarthick-5/thisiskarthick-5/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <strong></strong>
