@@ -100,7 +100,7 @@
 </p>
 
 
-<img src="https://raw.githubusercontent.com/thisiskarthick-5/thisiskarthick-5/output/snake.svg" alt="Snake animation" />
+
 
 
 <div align="center">
