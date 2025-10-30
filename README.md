@@ -1,31 +1,19 @@
 <p align="center">
   
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=150&section=header&text=&fontSize=18&fontColor=ffffff" 
-    width="1000" 
-    alt="" 
-  />
+  
+
+ <img width="1138" height="641" alt="Screenshot 2025-10-30 075116" src="https://github.com/user-attachments/assets/0555c528-b4de-4808-b7d6-7920bce0c1a8" />
 
  
-  <img width="1584" height="396" alt="KARTHICK" src="https://github.com/user-attachments/assets/599434bd-f9f9-420d-a0dd-6da2aadb2b1a" />
-
-  
 </p>
-
+<hr>
 <h3 align="center"><strong>A passionate Developer & Designer</strong></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Web+Developer;App+Developer;UI%2FUX+Designer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center" style="font-size:18px; font-weight:600; max-width:600px; margin:auto;">
-  🎓 B.E Computer Science student at Jaya Engineering College.<br/>
-  💻 Passionate about Web Development, App Development, and UI/UX Design.<br/>
-  🚀 Always eager to learn and build impactful projects.
-</p>
-
----
-
+<hr>
  <strong > My Tech Stack</strong>
 </center>
 <table align="center">
