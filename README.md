@@ -70,7 +70,8 @@
 <div align="center">
   <strong>Github stats</strong>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical" /> -->\
+    [![karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </div>
 <hr>
