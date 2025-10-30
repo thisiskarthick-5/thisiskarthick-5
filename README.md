@@ -72,9 +72,9 @@
 
   <!-- <!-- <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical" /> -->
   <!-- [![karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) --> -->
-![](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thisiskarthick-5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
 
 </div>
 <hr>
@@ -94,7 +94,7 @@
   </center>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
+  <![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <hr>
