@@ -70,8 +70,11 @@
 <div align="center">
   <strong>Github stats</strong>
   <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical" /> -->\
-    [![karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- <!-- <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical" /> -->
+  <!-- [![karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) --> -->
+![](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thisiskarthick-5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 </div>
 <hr>
