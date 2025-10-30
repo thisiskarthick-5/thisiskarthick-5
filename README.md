@@ -1,11 +1,15 @@
 <p align="center">
+  
   <img 
-    <!-- src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=150&section=header&text=Hi%20I'm%20Karthick!&fontColor=ffffff&fontSize=30&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=150&section=header&text=&fontSize=18&fontColor=ffffff" 
     width="1000" 
-    alt="Hi I'm Karthick !"  -->
-   src = ""<img width="1584" height="396" alt="KARTHICK" src="https://github.com/user-attachments/assets/599434bd-f9f9-420d-a0dd-6da2aadb2b1a" />
-
+    alt="" 
   />
+
+ 
+  <img width="1584" height="396" alt="KARTHICK" src="https://github.com/user-attachments/assets/599434bd-f9f9-420d-a0dd-6da2aadb2b1a" />
+
+  
 </p>
 
 <h3 align="center"><strong>A passionate Developer & Designer</strong></h3>
