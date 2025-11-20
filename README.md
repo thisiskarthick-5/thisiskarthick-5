@@ -64,9 +64,7 @@
 <div align="center">
   <strong>Github stats</strong>
 
-  <!-- <!-- <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical" /> -->
-  <!-- [![karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) --> -->
-![](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![thisiskarthick-5's Stats](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
 
 
@@ -76,7 +74,7 @@
 
 <strong>Contribution</strong>
 
-  [![GitHub Streak](https://github-readme-streak-stats-jet-one.vercel.app?user=thisiskarthick-5&theme=tokyonight)](https://git.io/streak-stats)
+ ![thisiskarthick-5's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthick-5&theme=merko&hide_border=false)
 
 </div>
 <hr>
@@ -88,7 +86,7 @@
   </center>
 <div align="center">
 
-  <![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![thisiskarthick-5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&theme=merko&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 <hr>
