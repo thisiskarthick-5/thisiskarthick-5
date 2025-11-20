@@ -68,23 +68,12 @@
 
 
 
-</div>
-<hr>
+
+
+
+
 <div align="center">
-
-<strong>Contribution</strong>
-
- ![thisiskarthick-5's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthick-5&theme=merko&hide_border=false)
-
-</div>
-<hr>
-
-
-
-<center>
-  <strong>lanuages used </strong>
-  </center>
-<div align="center">
+ <strong>lanuages used </strong>
 
 ![thisiskarthick-5's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskarthick-5&theme=merko&show_icons=true&hide_border=false&layout=compact)
 </div>
