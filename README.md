@@ -66,6 +66,8 @@
 
 ![thisiskarthick-5's Stats](https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
+</div>
+
 
 
 
