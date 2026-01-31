@@ -11,7 +11,13 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Karthick
 
-### Passionate for innovation, A CS Student trying to be Plus Ultra!!
+### 🚀 Full Stack Developer | UI/UX Designer | Web3 Enthusiast
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;App+Developer;Web3+%26+Blockchain+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thisiskarthick-5&color=blueviolet&style=flat-square&label=Profile+views)
 
@@ -19,40 +25,99 @@
 
 <br/>
 
-- 🔭 I’m currently a **Computer Science & Engineering Student** (Class of 2028)
+- 🎓 I’m a **Computer Science & Engineering Student** (Class of 2028).
 
-- 🌱 I’m currently learning **Web3, Blockchain, and Advanced React Native**
+- ✅ **Finished:** Full Stack Web Development (MERN/Flask) & UI/UX Design.
 
-- 💬 I like to talk about **Full Stack Development, UI/UX Design, and App Dev**
+- 🌱 **Currently Learning:** Web 3.0, Blockchain, and Advanced Mobile App Development.
 
-- 👯 I’m looking to collaborate on **Open Source Projects and Hackathons**
+- ⚡ **Fun fact:** I love bridging the gap between functional code and creative design.
 
-- ⚡ Fun fact **I bridge the gap between functional code and creative design**
-
-- 📫 How to reach me **[karthfire@gmail.com](mailto:karthfire@gmail.com)**
-
-- 📄 Connect with me on **[LinkedIn](https://linkedin.com/in/karthick-j)**
+- 📄 Connect with me on **[LinkedIn](https://linkedin.com/in/karthick-j)** or **[Email Me](mailto:karthfire@gmail.com)**.
 
 <br/>
 
-## Favorite Tech
+## 🛠️ Tech Stack
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and frameworks that I work with.
 
-<div align="center">
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,python,c,java,dart,flutter,firebase,flask,git,github,postgres,materialui,tailwind,figma&perline=9" />
-  </a>
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisiskarthick-5&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskarthick-5&theme=radical&hide_border=true" height="180" alt="streak graph" />
-</div>
-
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C Lang
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+  </tr>
+</table>
