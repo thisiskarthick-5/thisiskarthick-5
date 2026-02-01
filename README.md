@@ -33,7 +33,7 @@
 
 - ⚡ **Fun fact:** I love bridging the gap between functional code and creative design.
 
-- 📄 Connect with me on **[LinkedIn](https://linkedin.com/in/karthick-j)** or **[Email Me](mailto:karthfire@gmail.com)**.
+- 📄 Connect with me on **[LinkedIn](https://linkedin.com/in/karthick-j-a6443a312)** or **[Email Me](mailto:karthfire@gmail.com)**.
 
 <br/>
 
