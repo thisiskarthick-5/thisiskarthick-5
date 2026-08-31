@@ -37,7 +37,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 > Tools, languages, and frameworks that I work with.
 
@@ -121,3 +121,122 @@
     </td>
   </tr>
 </table>
+
+---
+
+## Projects
+
+> Here are some of the projects I've built while exploring Full Stack Development, Artificial Intelligence, Developer Tools, and Data-driven Applications.
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### TEAMLINK
+**Collaborative Team Management Platform**
+
+A modern team management and collaboration platform featuring role-based security, task management, attendance tracking, team chat, AI assistance, and productivity analytics.
+
+**Tech Stack:**  
+HTML5 • CSS3 • JavaScript • Firebase • Firestore • Groq AI • EmailJS
+
+🔗 [View Repository](https://github.com/thisiskarthick-5/teammanagement)
+
+</td>
+
+<td width="50%" valign="top">
+
+### MusicMix
+**Multi-Variant Dance Remix Generator**
+
+An automated DJ remix and mashup generator that creates phrase-level intermixes and linear transition remixes with crossfades, drum fills, and multiple remix patterns.
+
+**Tech Stack:**  
+Python • FastAPI • React • Vite • Audio Processing
+
+🔗 [View Repository](https://github.com/thisiskarthick-5/musicmix)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### BotNest AI
+**Custom No-Code AI Chatbot Builder**
+
+A production-ready no-code AI platform for creating knowledge-based chatbots using documents and websites, with RAG, embeddings, hosted chatbot pages, iframe widgets, and analytics.
+
+**Tech Stack:**  
+Python • React • Gemini • ChromaDB • RAG • Vector Search
+
+🔗 [View Repository](https://github.com/thisiskarthick-5/BotNest)
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Interview Helper
+**AI-Powered Interview Assistant**
+
+A Chrome extension that provides real-time AI assistance during coding and HR interviews with explanations, hints, solution approaches, grammar correction, and contextual assistance.
+
+**Tech Stack:**  
+JavaScript • Chrome Extension • Groq • Gemini • AI
+
+🔗 [View Repository](https://github.com/thisiskarthick-5/interview_helper)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### VANTAGE AI
+**Master Your Interview**
+
+A high-fidelity AI interview simulation platform designed to help students, career switchers, and professionals practice technical and behavioral interviews.
+
+**Tech Stack:**  
+React • Vite • Tailwind CSS • AI
+
+🔗 [View Repository](https://github.com/thisiskarthick-5/AI_INTERVIEW)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Quantum Predictor
+**AI-Powered Financial Market Dashboard**
+
+A financial analysis dashboard for tracking, comparing, and analyzing global and Indian stock markets with real-time data, interactive charts, portfolio tracking, and predictive signals.
+
+**Tech Stack:**  
+Python • Flask • Chart.js • yFinance • JavaScript
+
+🔗 [View Repository](https://github.com/thisiskarthick-5/AI_STOCK_APPLICATION)
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/thisiskarthick-5?tab=repositories">
+    <img 
+      src="https://img.shields.io/badge/✨%20View%20All%20Projects-2196F3?style=for-the-badge&logo=github&logoColor=white"
+      alt="View All Projects"
+    />
+  </a>
+</p>
+
+---
