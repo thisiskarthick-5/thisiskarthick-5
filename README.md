@@ -144,6 +144,8 @@ HTML5 • CSS3 • JavaScript • Firebase • Firestore • Groq AI • EmailJS
 
 🔗 [View Repository](https://github.com/thisiskarthick-5/teammanagement)
 
+<br>
+
 </td>
 
 <td width="50%" valign="top">
@@ -157,6 +159,8 @@ An automated DJ remix and mashup generator that creates phrase-level intermixes 
 Python • FastAPI • React • Vite • Audio Processing
 
 🔗 [View Repository](https://github.com/thisiskarthick-5/musicmix)
+
+<br>
 
 </td>
 
@@ -176,6 +180,8 @@ Python • React • Gemini • ChromaDB • RAG • Vector Search
 
 🔗 [View Repository](https://github.com/thisiskarthick-5/BotNest)
 
+<br>
+
 </td>
 
 <td width="50%" valign="top">
@@ -189,6 +195,8 @@ A Chrome extension that provides real-time AI assistance during coding and HR in
 JavaScript • Chrome Extension • Groq • Gemini • AI
 
 🔗 [View Repository](https://github.com/thisiskarthick-5/interview_helper)
+
+<br>
 
 </td>
 
@@ -208,6 +216,8 @@ React • Vite • Tailwind CSS • AI
 
 🔗 [View Repository](https://github.com/thisiskarthick-5/AI_INTERVIEW)
 
+<br>
+
 </td>
 
 <td width="50%" valign="top">
@@ -221,6 +231,8 @@ A financial analysis dashboard for tracking, comparing, and analyzing global and
 Python • Flask • Chart.js • yFinance • JavaScript
 
 🔗 [View Repository](https://github.com/thisiskarthick-5/AI_STOCK_APPLICATION)
+
+<br>
 
 </td>
 
